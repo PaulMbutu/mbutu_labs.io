@@ -372,7 +372,7 @@
         to bottom,
         rgba(0,0,0,0) 0%,
         rgba(17,17,17,0.6) 100%),
-        url('/images/titanic.JPEG');
+        url('images/titanic.JPEG');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -383,7 +383,7 @@
         to bottom,
         rgba(0,0,0,0) 0%,
         rgba(17,17,17,0.6) 100%),
-        url('/images/bank.JPEG'); 
+        url('images/bank.JPEG'); 
     align-items: center;
 }
 
@@ -392,7 +392,7 @@
         to bottom,
         rgba(0,0,0,0) 0%,
         rgba(17,17,17,0.6) 100%),
-        url('/images/social_media.JPEG'); 
+        url('images/social_media.JPEG'); 
 }
 
 .services__card:nth-child(4){
@@ -400,7 +400,7 @@
         to bottom,
         rgba(0,0,0,0) 0%,
         rgba(17,17,17,0.6) 100%),
-        url('/images/flights.JPEG'); 
+        url('images/flights.JPEG'); 
 }
 
 .services h2{
